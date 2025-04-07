@@ -12,3 +12,5 @@ $ npx create-next-app@latest frontend
 - https://www.youtube.com/watch?v=_SPoSMmN3ZU&t=10359s
 
 - https://www.youtube.com/watch?v=jKYKb5OXTqk
+
+- https://icons8.com/icons/set/animals--style-offices
